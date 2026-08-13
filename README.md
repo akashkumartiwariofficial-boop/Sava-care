@@ -30,7 +30,6 @@
 
 ## 🚀 Getting Started
 
-```bash
 # Clone the repository
 git clone https://github.com/your-username/sevacare.git
 
@@ -41,7 +40,7 @@ cd sevacare
 npm install
 
 # Run development server
-npm run dev
+npm run dev 
 
 
 <img width="1898" height="875" alt="image" src="https://github.com/user-attachments/assets/a700135c-77df-4e73-bba2-b31c1401c8e6" />
