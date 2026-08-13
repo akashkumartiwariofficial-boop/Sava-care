@@ -1,0 +1,6 @@
+{
+  "name": "Seva Care",
+  "description": "Seva Care platform featuring secure login, religion and location preferences, and tailored caregiving services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
