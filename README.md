@@ -28,19 +28,6 @@
 
 ---
 
-## 🚀 Getting Started
-
-# Clone the repository
-git clone https://github.com/your-username/sevacare.git
-
-# Navigate to project directory
-cd sevacare
-
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev 
 
 
 <img width="1898" height="875" alt="image" src="https://github.com/user-attachments/assets/a700135c-77df-4e73-bba2-b31c1401c8e6" />
@@ -58,6 +45,23 @@ npm run dev
 
 
 <img width="1021" height="806" alt="image" src="https://github.com/user-attachments/assets/51eb2e98-ef84-411b-a2d6-c56d91f735f7" />
+
+
+## 🚀 Getting Started
+
+'''bass
+# Clone the repository
+git clone https://github.com/your-username/sevacare.git
+
+# Navigate to project directory
+cd sevacare
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev 
+
 
 
 
