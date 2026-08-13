@@ -1,4 +1,4 @@
-# 🌸 SevaCare (सेवाकेयर) — Faith-Aligned Elder Care Platform
+# 🌸 SevaCare (सेवाकेयर) — Faith-Aligned Elder Care Platform 
 
 **SevaCare** is a modern, responsive web application crafted to connect families with verified, compassionate caregivers and companions tailored to their cultural, religious, and dietary values across India.
 
@@ -42,3 +42,25 @@ npm install
 
 # Run development server
 npm run dev
+
+
+<img width="1898" height="875" alt="image" src="https://github.com/user-attachments/assets/a700135c-77df-4e73-bba2-b31c1401c8e6" />
+
+
+<img width="1883" height="848" alt="image" src="https://github.com/user-attachments/assets/84183986-4b58-4aea-8839-96a6816a4229" />
+
+<img width="1881" height="865" alt="image" src="https://github.com/user-attachments/assets/f83828bf-7141-434e-aacf-08ee5b850997" />
+
+
+<img width="1831" height="725" alt="image" src="https://github.com/user-attachments/assets/5cce629b-6d9b-4db6-9220-f11c0c7ec3fe" />
+
+
+<img width="1128" height="787" alt="image" src="https://github.com/user-attachments/assets/257d2dc1-3183-4d8c-8efb-f2d30d81a907" />
+
+
+<img width="1021" height="806" alt="image" src="https://github.com/user-attachments/assets/51eb2e98-ef84-411b-a2d6-c56d91f735f7" />
+
+
+
+
+
